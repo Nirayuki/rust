@@ -1,4 +1,6 @@
-# Rust monorepo for learning the basics and advenced stuffs of Rust.
+# Rust
+
+Rust monorepo for learning the basics and advenced stuffs of Rust.
 
 
 ## Goals -----------------------------------
