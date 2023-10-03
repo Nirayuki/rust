@@ -5,7 +5,7 @@ Rust monorepo for learning the basics and advenced stuffs of Rust.
 
 ## Goals -----------------------------------
 
-My goals in this monorepo is to create a game if rust, create a web application with rust and even more create a desktop application with rust. 
+My goals in this monorepo is to create a game with rust, create a web application with rust and even more create a desktop application with rust. 
 
 
 ## My knowldges ------------------------------
